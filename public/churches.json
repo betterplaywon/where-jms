@@ -1,0 +1,23 @@
+[
+  {
+    "number": 1,
+    "churchName": "행복한 우리교회",
+    "coordinates": [37.561722, 127.1756534],
+    "churchKind": "JMS",
+    "address": "서울특별시 강동구 강일동 701-1"
+  },
+  {
+    "number": 2,
+    "churchName": "신촌 햇빛",
+    "coordinates": [37.5524904, 126.9328377],
+    "churchKind": "JMS",
+    "address": "서울 마포구 서강로 105 화일빌딩 5층"
+  },
+  {
+    "number": 3,
+    "churchName": "명동 주사랑교회",
+    "coordinates": [37.5564253, 126.9803302],
+    "churchKind": "JMS",
+    "address": "서울 중구 회현동1가 100-239"
+  }
+]
