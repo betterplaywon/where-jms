@@ -1,13 +1,15 @@
 [
   {
     "number": 1,
-    "churchName": "행복한 우리교회",
+    "iconNumber": 1,
+    "churchName": "행복한 우리교회(구 서울 사파이어교회)",
     "coordinates": [37.561722, 127.1756534],
     "churchKind": "JMS",
     "address": "서울특별시 강동구 강일동 701-1"
   },
   {
     "number": 2,
+    "iconNumber": 1,
     "churchName": "신촌 햇빛",
     "coordinates": [37.5524904, 126.9328377],
     "churchKind": "JMS",
@@ -15,9 +17,66 @@
   },
   {
     "number": 3,
+    "iconNumber": 1,
     "churchName": "명동 주사랑교회",
     "coordinates": [37.5564253, 126.9803302],
     "churchKind": "JMS",
     "address": "서울 중구 회현동1가 100-239"
+  },
+  {
+    "number": 4,
+    "iconNumber": 1,
+    "churchName": "아가페 주사랑교회",
+    "coordinates": [37.5140036, 126.8101193],
+    "churchKind": "JMS",
+    "address": "경기도 부천시 작동 117-4"
+  },
+  {
+    "number": 5,
+    "iconNumber": 1,
+    "churchName": "주님의 흰돌교회",
+    "coordinates": [37.3864517, 127.1080389],
+    "churchKind": "JMS",
+    "address": "경기도 성남시 분당구 판교역로 61"
+  },
+  {
+    "number": 6,
+    "iconNumber": 1,
+    "churchName": "일산 주반석교회",
+    "coordinates": [37.6468489, 126.902862],
+    "churchKind": "JMS",
+    "address": "경기 고양시 덕양구 고양대로 2016 일산신애원 파인트리아트홀"
+  },
+  {
+    "number": 7,
+    "iconNumber": 1,
+    "churchName": "광명교회",
+    "coordinates": [37.4559553, 126.8825258],
+    "churchKind": "JMS",
+    "address": "경기 광명시 소하동 1280"
+  },
+  {
+    "number": 8,
+    "iconNumber": 1,
+    "churchName": "안산 주성령교회",
+    "coordinates": [37.3143769, 126.8393085],
+    "churchKind": "JMS",
+    "address": "경기 안산시 단원구 광덕4로 244 5층"
+  },
+  {
+    "number": 9,
+    "iconNumber": 1,
+    "churchName": "새빛선교교회(구 경기 오산사랑교회)",
+    "coordinates": [37.1387836, 127.053923],
+    "churchKind": "JMS",
+    "address": "경기도 오산시 누읍동 631-3"
+  },
+  {
+    "number": 10,
+    "iconNumber": 1,
+    "churchName": "김포 주성령교회",
+    "coordinates": [37.6431002, 126.6398717],
+    "churchKind": "JMS",
+    "address": "경기 김포시 마산동 626-11 6층"
   }
 ]
