@@ -8,7 +8,7 @@ import useChurches from "@/hooks/useChurches";
 import { NextPage } from "next";
 
 interface Props {
-  stores: Churches[];
+  churches: Churches[];
 }
 
 const Home: NextPage<Props> = ({ churches }) => {
@@ -18,12 +18,10 @@ const Home: NextPage<Props> = ({ churches }) => {
     initializeChurches(churches);
   }, [initializeChurches, churches]);
 
-  console.log(churches);
-
   return (
     <>
       <Header />
-      <main style={{ width: "100%", height: "100%" }}>
+      <main className="w-full h-full">
         <MapPart />
       </main>
     </>
@@ -33,7 +31,7 @@ const Home: NextPage<Props> = ({ churches }) => {
 export default Home;
 
 export async function getStaticProps() {
-  const churches = await (await import("../../public/churches.json")).default;
+  const churches = (await import("../../public/churches.json")).default;
 
   return {
     props: { churches },
