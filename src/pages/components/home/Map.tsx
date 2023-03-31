@@ -31,7 +31,6 @@ const Map = ({
       },
     };
 
-    /** https://navermaps.github.io/maps.js.ncp/docs/tutorial-2-Getting-Started.html */
     const map = new window.naver.maps.Map(mapId, mapOptions);
     mapRef.current = map;
 
