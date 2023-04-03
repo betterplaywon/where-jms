@@ -5,7 +5,10 @@
     "churchName": "행복한 우리교회(구 서울 사파이어교회)",
     "coordinates": [37.561722, 127.1756534],
     "churchKind": "JMS",
-    "address": "서울특별시 강동구 강일동 701-1"
+    "address": "서울특별시 강동구 강일동 701-1",
+    "description": "강일동에서 유명한 JMS 교회, 가장 유명한 JMS 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EA%B0%95%EC%9D%BC%EB%8F%99%20701-1/address/14157130.001929138,4517697.150712142,%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EA%B0%95%EC%9D%BC%EB%8F%99%20701-1,jibun?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "강동" }, { "keyword": "서울" }, { "keyword": "JMS" }]
   },
   {
     "number": 2,
@@ -13,7 +16,10 @@
     "churchName": "신촌 햇빛",
     "coordinates": [37.5524904, 126.9328377],
     "churchKind": "JMS",
-    "address": "서울 마포구 서강로 105 화일빌딩 5층"
+    "address": "서울 마포구 서강로 105 화일빌딩 5층",
+    "description": "마포구 주민들은 모두 알고있는 JMS 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%84%9C%EA%B0%95%EB%A1%9C%20105/address/14130098.145264465,4516398.887421833,%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%84%9C%EA%B0%95%EB%A1%9C%20105,new?c=18,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "마포" }, { "keyword": "서울" }, { "keyword": "JMS" }]
   },
   {
     "number": 3,
@@ -21,7 +27,10 @@
     "churchName": "명동 주사랑교회",
     "coordinates": [37.5564253, 126.9803302],
     "churchKind": "JMS",
-    "address": "서울 중구 회현동1가 100-239"
+    "address": "서울 중구 회현동1가 100-239",
+    "description": "폐교된 건물은 속임수입니다. JMS를 믿고있는 이단 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%ED%9A%8C%ED%98%84%EB%8F%991%EA%B0%80%20100-239/address/14135384.796937834,4516953.312387969,%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%ED%9A%8C%ED%98%84%EB%8F%991%EA%B0%80%20100-239,jibun?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "회현" }, { "keyword": "서울" }, { "keyword": "JMS" }]
   },
   {
     "number": 4,
@@ -29,7 +38,10 @@
     "churchName": "아가페 주사랑교회",
     "coordinates": [37.5140036, 126.8101193],
     "churchKind": "JMS",
-    "address": "경기도 부천시 작동 117-4"
+    "address": "경기도 부천시 작동 117-4",
+    "description": "까치울역 근방에 위치한 JMS 교회. 건물에 있는 폰트만 봐도 JMS라는 것을 알 수 있습니다.",
+    "naverUrl": "https://map.naver.com/v5/entry/place/19263792?lng=126.8101855&lat=37.5140159&placePath=%2Fhome%3Fentry=plt&c=15,0,0,0,dh",
+    "info": [{ "keyword": "부천" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 5,
@@ -37,7 +49,10 @@
     "churchName": "주님의 흰돌교회",
     "coordinates": [37.3864517, 127.1080389],
     "churchKind": "JMS",
-    "address": "경기도 성남시 분당구 판교역로 61"
+    "address": "경기도 성남시 분당구 판교역로 61",
+    "description": "WHITE STONE ART HALL 이라는 이름으로 활동 중인 JMS 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%ED%8C%90%EA%B5%90%EC%97%AD%EB%A1%9C%2061/place/1874746934?c=16.7,0,0,0,dh&isCorrectAnswer=true&p=cxpKmLIKQ1Y5nNBZxmd-dw,-93.58,-0.56,37,Float",
+    "info": [{ "keyword": "판교" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 6,
@@ -45,7 +60,10 @@
     "churchName": "일산 주반석교회",
     "coordinates": [37.6468489, 126.902862],
     "churchKind": "JMS",
-    "address": "경기 고양시 덕양구 고양대로 2016 일산신애원 파인트리아트홀"
+    "address": "경기 고양시 덕양구 고양대로 2016 일산신애원 파인트리아트홀",
+    "description": "지축역 근방에 위치한 JMS 교회입니다. 옥상에는 풋살장을 유치해 평범해 보이지만 속으시면 안됩니다",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8C%80%EB%A1%9C%202016/address/14126762.423327003,4529646.931251245,%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8C%80%EB%A1%9C%202016,new?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "고양" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 7,
@@ -53,7 +71,10 @@
     "churchName": "광명교회",
     "coordinates": [37.4559553, 126.8825258],
     "churchKind": "JMS",
-    "address": "경기 광명시 소하동 1280"
+    "address": "경기 광명시 소하동 1280",
+    "description": "금천구청역 근방에 위치한 JMS 교회입니다. 광명 대신 악을 선사하는 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EC%86%8C%ED%95%98%EB%8F%99%201280/place/1067158039?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "광명" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 8,
@@ -61,7 +82,10 @@
     "churchName": "안산 주성령교회",
     "coordinates": [37.3143769, 126.8393085],
     "churchKind": "JMS",
-    "address": "경기 안산시 단원구 광덕4로 244 5층"
+    "address": "경기 안산시 단원구 광덕4로 244 5층",
+    "description": "폰트에서 뭔가 느낌이 싸하신가요? 맞습니다, 이곳은 JMS 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EA%B4%91%EB%8D%954%EB%A1%9C%20244/address/14119687.234790903,4483017.935492093,%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EA%B4%91%EB%8D%954%EB%A1%9C%20244,new?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "안산" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 9,
@@ -69,7 +93,10 @@
     "churchName": "새빛선교교회(구 경기 오산사랑교회)",
     "coordinates": [37.1387836, 127.053923],
     "churchKind": "JMS",
-    "address": "경기도 오산시 누읍동 631-3"
+    "address": "경기도 오산시 누읍동 631-3",
+    "description": "대한예수교장로회라는 말에 속으시면 안됩니다. 해당 교단은 이단이며 JMS 교회라는 사실을 아셔야 합니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EB%88%84%EC%9D%8D%EB%8F%99%20631-3/address/14143578.011647757,4458469.126505094,%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EB%88%84%EC%9D%8D%EB%8F%99%20631-3,jibun?c=20,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "오산" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   },
   {
     "number": 10,
@@ -77,6 +104,9 @@
     "churchName": "김포 주성령교회",
     "coordinates": [37.6431002, 126.6398717],
     "churchKind": "JMS",
-    "address": "경기 김포시 마산동 626-11 6층"
+    "address": "경기 김포시 마산동 626-11 6층",
+    "description": "숨겨져 있는 김포의 JMS 교회입니다.",
+    "naverUrl": "https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%EB%A7%88%EC%82%B0%EB%8F%99%20626-11/address/14097486.031769466,4529129.8046054095,%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%EB%A7%88%EC%82%B0%EB%8F%99%20626-11,jibun?c=19,0,0,0,dh&isCorrectAnswer=true",
+    "info": [{ "keyword": "김포" }, { "keyword": "경기" }, { "keyword": "JMS" }]
   }
 ]

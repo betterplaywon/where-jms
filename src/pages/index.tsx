@@ -6,6 +6,7 @@ import MapPart from "@/pages/components/home/MapPart";
 import { Churches } from "@/types/churches";
 import useChurches from "@/hooks/useChurches";
 import { NextPage } from "next";
+import DetailSection from "./components/home/DetailSection";
 
 interface Props {
   churches: Churches[];
@@ -21,7 +22,8 @@ const Home: NextPage<Props> = ({ churches }) => {
   return (
     <>
       <Header />
-      <main className="w-full h-full">
+      <main className="w-full h-full relative overflow-hidden">
+        <DetailSection />
         <MapPart />
       </main>
     </>
