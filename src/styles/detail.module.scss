@@ -61,6 +61,13 @@ $section-padding-top: 8px;
       font-size: 2rem;
     }
   }
+
+  @media (max-width: 412px) {
+    .title {
+      font-size: 0.5rem;
+      font-weight: 500;
+    }
+  }
 }
 
 // datailContent part
