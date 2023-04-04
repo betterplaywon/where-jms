@@ -24,7 +24,7 @@
 
 ## 배포 주소
 
-https://where-jms.vercel.app/
+https://where-3olp3mogg-betterplaywon.vercel.app/
 
 <br/>
 
