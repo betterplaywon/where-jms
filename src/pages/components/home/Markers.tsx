@@ -14,8 +14,6 @@ const Markers = () => {
   const { data: currentChurch } = useSWR<Churches>(CURRENT_CHURCH_KEY);
   const { setCurrentChurch, clearCurrentChurch } = useCurrentChurch();
 
-  console.log(currentChurch);
-
   if (!map || !churches) return null;
   return (
     <>

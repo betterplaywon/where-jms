@@ -21,7 +21,7 @@ $section-padding-top: 8px;
   );
 
   &.selected {
-    transform: translateY(calc(100% - 160px));
+    transform: translateY(calc(100% - 80px));
   }
 
   &.toggle {
