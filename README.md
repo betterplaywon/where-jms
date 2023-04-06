@@ -18,13 +18,7 @@
 
 - 프로젝트 진행 기간:
 
-`23.03.26 - 23.04. -- (현재 진행중)`
-
-<br/>
-
-## 배포 주소
-
-https://where-bljemul0n-betterplaywon.vercel.app/
+`23.03.26 - 23.04.06`
 
 <br/>
 
