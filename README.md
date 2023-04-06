@@ -24,7 +24,7 @@
 
 ## 배포 주소
 
-https://where-3olp3mogg-betterplaywon.vercel.app/
+https://where-bljemul0n-betterplaywon.vercel.app/
 
 <br/>
 
