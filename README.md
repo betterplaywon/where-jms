@@ -89,7 +89,7 @@ Mockdata를 만들어 사용했으며 공개적으로 알려진 JMS 교회를 �
   - 지도 좌표와 zoom level 초기화, url clip-board 복사를 통한 제 3자에게 전달 가능하도록 기능 구현
 
 2. Map(=Home) 페이지 구현
-	- getStaticProps를 적용한 동적 페이지.
+	- getStaticProps를 적용한  페이지.
   - URL의 query에 따라 지도 view가 변경되도록 처리
   - Naver Maps API를 사용한 지도 기능 구현.
 
